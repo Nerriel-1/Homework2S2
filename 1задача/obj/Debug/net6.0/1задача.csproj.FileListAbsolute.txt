@@ -1,0 +1,15 @@
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\bin\Debug\net6.0\1задача.exe
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\bin\Debug\net6.0\1задача.deps.json
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\bin\Debug\net6.0\1задача.runtimeconfig.json
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\bin\Debug\net6.0\1задача.dll
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\bin\Debug\net6.0\1задача.pdb
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\obj\Debug\net6.0\1задача.csproj.AssemblyReference.cache
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\obj\Debug\net6.0\1задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\obj\Debug\net6.0\1задача.AssemblyInfoInputs.cache
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\obj\Debug\net6.0\1задача.AssemblyInfo.cs
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\obj\Debug\net6.0\1задача.csproj.CoreCompileInputs.cache
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\obj\Debug\net6.0\1задача.dll
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\obj\Debug\net6.0\refint\1задача.dll
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\obj\Debug\net6.0\1задача.pdb
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\obj\Debug\net6.0\1задача.genruntimeconfig.cache
+C:\Users\ukihi\OneDrive\Рабочий стол\Homework2\1задача\obj\Debug\net6.0\ref\1задача.dll
